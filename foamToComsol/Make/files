@@ -1,0 +1,4 @@
+writeComsolFiles.C
+foamDataToComsol.C
+
+EXE = $(FOAM_APPBIN)/foamDataToComsol
