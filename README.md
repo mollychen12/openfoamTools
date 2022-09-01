@@ -11,3 +11,10 @@ should be located in the src/finiteVolume/fields/fvPatchFields/derived/ pathand 
 still have to add the line to finiteVolume/Make/files
 `$(derivedFvPatchFields)/oscillatingFixedValue/oscillatingFixedValueFvPatchFields.C`
 and then 'wmake libso' at the /Make same grade path to change the libfiniteVolume.
+
+# Example cases
+
+## 1 simpleFOAM-steady for inner flow calculation
+
+##  
+
