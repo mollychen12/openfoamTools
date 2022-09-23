@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "oscillatingVelocityForce.C": "cpp",
+        "acousticDampingSource.C": "cpp"
+    }
+}
